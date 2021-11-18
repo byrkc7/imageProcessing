@@ -1,0 +1,10 @@
+C:\Users\talha\source\repos\ocr_Talha_bayrakcı_180201056\ocr_Talha_bayrakcı_180201056\bin\Debug\ocr_Talha_bayrakcı_180201056.exe.config
+C:\Users\talha\source\repos\ocr_Talha_bayrakcı_180201056\ocr_Talha_bayrakcı_180201056\bin\Debug\ocr_Talha_bayrakcı_180201056.exe
+C:\Users\talha\source\repos\ocr_Talha_bayrakcı_180201056\ocr_Talha_bayrakcı_180201056\bin\Debug\ocr_Talha_bayrakcı_180201056.pdb
+C:\Users\talha\source\repos\ocr_Talha_bayrakcı_180201056\ocr_Talha_bayrakcı_180201056\obj\Debug\ocr_Talha_bayrakcı_180201056.csprojAssemblyReference.cache
+C:\Users\talha\source\repos\ocr_Talha_bayrakcı_180201056\ocr_Talha_bayrakcı_180201056\obj\Debug\ocr_Talha_bayrakcı_180201056.Form1.resources
+C:\Users\talha\source\repos\ocr_Talha_bayrakcı_180201056\ocr_Talha_bayrakcı_180201056\obj\Debug\ocr_Talha_bayrakcı_180201056.Properties.Resources.resources
+C:\Users\talha\source\repos\ocr_Talha_bayrakcı_180201056\ocr_Talha_bayrakcı_180201056\obj\Debug\ocr_Talha_bayrakcı_180201056.csproj.GenerateResource.cache
+C:\Users\talha\source\repos\ocr_Talha_bayrakcı_180201056\ocr_Talha_bayrakcı_180201056\obj\Debug\ocr_Talha_bayrakcı_180201056.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\ocr_Talha_bayrakcı_180201056\ocr_Talha_bayrakcı_180201056\obj\Debug\ocr_Talha_bayrakcı_180201056.exe
+C:\Users\talha\source\repos\ocr_Talha_bayrakcı_180201056\ocr_Talha_bayrakcı_180201056\obj\Debug\ocr_Talha_bayrakcı_180201056.pdb
